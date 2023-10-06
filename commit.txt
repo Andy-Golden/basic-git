@@ -1,7 +1,3 @@
 learn basic git command
 
-test stash changes
-
-cause conflict no 123 to be solved
-
-cause conflict for main2
+cause conflict test
