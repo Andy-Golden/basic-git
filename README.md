@@ -1,2 +1,4 @@
-# basic-git
-practice simple git command
+# Basic git
+Practice simple git command
+
+- Add new pull request template.
