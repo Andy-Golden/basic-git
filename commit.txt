@@ -4,4 +4,4 @@ test stash changes
 
 cause conflict no 123 to be solved
 
-develop cause 1321312 abcxczxcdasdsd
+develop if commit has avatar
