@@ -3,3 +3,5 @@ learn basic git command
 cause conflict test
 
 first conflict
+
+seccond conflict
