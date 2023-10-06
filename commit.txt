@@ -3,3 +3,5 @@ learn basic git command
 test stash changes
 
 cause conflict no 123 to be solved
+
+cause another conflict 1321313
